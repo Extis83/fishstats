@@ -61,12 +61,12 @@ This addon displays fishing statistics in a movable window.
 
 - Elapsed Time
 - Total Casts
-- Fish Caught
-- Percent Fish Caught
+- Fish Hooked
+- Percent Fish Hooked
 - Estimated Fish per Hour
-- Monsters Caught
-- Items Caught
-- Catching Nothing
+- Monsters Hooked
+- Items Hooked
+- Nothing bites
 
 ### Automatic Window Display:
 
